@@ -113,7 +113,7 @@ In this phase Logicbots will be working on -
 * Designing the PCB, making the device compact in size and ensure all components are working.
 * Fabrication of the PCB end-to-end which includes sourcing the hardware, generate gerber files for printing the PCB and finding the right vendor for PCB manufactring.
 
-* Man-hour required: 8 week ( Sensor delivery time not included ) with 1 device ready to ship after 2 weeks.
+* Man-hour required: 8 week ( Sensor delivery time not included )
 
 * Hardware required + Sourcing Cost + PCB printing charges: TBD
 
